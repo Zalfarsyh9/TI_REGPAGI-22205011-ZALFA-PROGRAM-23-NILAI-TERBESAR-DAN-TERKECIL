@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama : Zalfa Rosiyah Riski 
  Nim : 22205011
  Jurusan : Teknik Informatika
+ Deskripsi : program nilai terbesar dan terkecil
  */
 public class TI_REGPAGI22205011latihan23ZalfaJava {
 
